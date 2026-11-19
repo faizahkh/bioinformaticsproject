@@ -1,0 +1,2 @@
+## AI Usage File:
+- For this project and the draft so far, I have used the assistance of AI tools such as ChatGPT and Claude to help with writing some code, especially pertaining to baseline modeling testing and understanding how I can use PCA next week here. Additionally, one of the more common usages has been to understand and see how features work with each other in this dataset since a lot of it has been numerical. Another usage has also been to create visuals for the timeline during the draft reports.
