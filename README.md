@@ -30,4 +30,4 @@ Random seeds: train/test split random_state = 42; Random Forest random_state = 4
 - Week 3 planned: final visualizations, interpretation, final report
 
 ## Credits
-Parts of the exploratory data analysis and baseline Random Forest code were adapted from a public Kaggle notebook: [author, title, URL].
+Parts of the exploratory data analysis and baseline Random Forest code were adapted from a public Kaggle notebook: [DATA1 on Kaggle].
